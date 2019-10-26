@@ -1,0 +1,6 @@
+name: FastFire
+main: main.java.net.yuthea.fastfire.FastFire
+version: "1.0"
+api-version: "1.14"
+author: DrEmixam
+depend: []
